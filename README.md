@@ -2,7 +2,7 @@
 The Color Recognition we used for our project in the HackZurich 2017.
 Go here to see it being used in the [Frontend](https://github.com/nycooookie/hackathon_webinterface).
 
-##Usage
+## Usage
 If supplied with the following arguments:
 
 `java -jar grain.jar <imagepath> <slicingsize>`
